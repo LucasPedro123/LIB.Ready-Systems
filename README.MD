@@ -50,6 +50,7 @@ Este **Monorepo** foi desenvolvido com o objetivo de agrupar diversos pacotes em
 
 - **Backend**:  
   - NestJS (futuramente para APIs e lógica de backend)  
+  - ASP.NET (futuramente para APIs e lógica de backend)  
 
 - **Banco de Dados**:  
   - Firebase Firestore (armazenamento de dados em tempo real)  
