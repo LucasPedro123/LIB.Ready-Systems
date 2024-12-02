@@ -1,5 +1,5 @@
 
-# Monorepo - Sistema Modular de Soluções
+# Ready-Systems
 
 Este **Monorepo** foi desenvolvido com o objetivo de agrupar diversos pacotes em uma estrutura modular e escalável. Os pacotes possuem sistemas **WhiteLabel**, que permite que cada sistema possa ser personalizado para diferentes marcas ou clientes de maneira flexível.
 
